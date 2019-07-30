@@ -6,7 +6,7 @@
 | FaceBook | [三田村健](https://www.facebook.com/ken.mitamura.4) |
 | Twitter | [@Ken_Mitamura](https://twitter.com/Ken_Mitamura) |
 | 性別 | 男 |
-| 年齢 | 24歳 |
+| 年齢 | 25歳 |
 | 学歴 | 東京大学工学部卒業 |
 | 在住地 | 東京都 |
 
