@@ -6,7 +6,7 @@
 | Facebook | [三田村健](https://www.facebook.com/ken.mitamura.4) |
 | Twitter | [@Ken_Mitamura](https://twitter.com/Ken_Mitamura) |
 | 性別 | 男 |
-| 年齢 | 26 歳 |
+| 年齢 | 27 歳 |
 | 学歴 | 東京大学工学部卒業 |
 | 在住地 | 東京都 |
 
@@ -19,12 +19,13 @@
 ### 言語
 | 言語 | | レベル | 年数 | 備考 |
 | --- | --- | --- | --- | --- |
-| Ruby | | A | 4 | |
-| Python | | A | 3 | |
+| Ruby | | A | 5 | |
+| Python | | A | 4 | |
 | JavaScript | jQuery | B | | |
 | | CoffeeScript | B | |
 | | ECMAScript | B | |
 | | JSX | B | |
+| TypeScript | | B | |
 | HTML | | A | |
 | CSS | | A | |
 | Solidity | | B | |
@@ -106,7 +107,7 @@ Rails を使用した Web サービスの開発
 
 サーバー業務では Rails を使用した Web サービスの開発、 Flask や Django を使用した API 開発、 Python コードの社内パッケージ化、プロダクトの API ドキュメント管理、ブロックチェーン技術の導入、 DevOps 分野としてコード規約やテストの導入、GitHub Actions や CodeBuild を利用した CI / CD の整備などを担当。
 
-その他に React + Redux を用いたフロント開発、サーバー / フロントエンジニアの採用、プロダクト開発チームのマネジメントなどを行う。
+その他に React を用いたフロント開発、サーバー / フロント / モバイルエンジニアの採用、プロダクト開発チームのマネジメントなどを行う。
 
 #### 担当業務
 - 開発環境の整備
