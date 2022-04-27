@@ -6,7 +6,7 @@
 | Facebook | [三田村健](https://www.facebook.com/ken.mitamura.4) |
 | Twitter | [@Ken_Mitamura](https://twitter.com/Ken_Mitamura) |
 | 性別 | 男 |
-| 年齢 | 27 歳 |
+| 年齢 | 28 歳 |
 | 学歴 | 東京大学工学部卒業 |
 | 在住地 | 東京都 |
 
@@ -19,8 +19,8 @@
 ### 言語
 | 言語 | | レベル | 年数 | 備考 |
 | --- | --- | --- | --- | --- |
-| Ruby | | A | 5 | |
-| Python | | A | 4 | |
+| Ruby | | A | 6 | |
+| Python | | A | 5 | |
 | JavaScript | jQuery | B | | |
 | | CoffeeScript | B | |
 | | ECMAScript | B | |
@@ -37,6 +37,7 @@
 | Ruby on Rails | A | |
 | Flask | A | |
 | Django | A | |
+| Django REST framework | A | |
 | React | B | |
 | Redux | B | |
 
@@ -73,6 +74,7 @@
 | Jenkins | A | |
 | GitHub Actions | A |
 | CircleCI | B | |
+| Redash | A | |
 
 
 ### 語学力
@@ -107,7 +109,7 @@ Rails を使用した Web サービスの開発
 
 サーバー業務では Rails を使用した Web サービスの開発、 Flask や Django を使用した API 開発、 Python コードの社内パッケージ化、プロダクトの API ドキュメント管理、ブロックチェーン技術の導入、 DevOps 分野としてコード規約やテストの導入、GitHub Actions や CodeBuild を利用した CI / CD の整備などを担当。
 
-その他に React を用いたフロント開発、サーバー / フロント / モバイルエンジニアの採用、プロダクト開発チームのマネジメントなどを行う。
+その他に React を用いたフロント開発、サーバー / フロント / モバイルエンジニアの採用、プロダクト開発チームのマネジメント、情報システム業務として PC のキッティング・社内セキュリティ整備や ISMS 導入などを実施。
 
 #### 担当業務
 - 開発環境の整備
@@ -116,6 +118,7 @@ Rails を使用した Web サービスの開発
 - GCP, Azure の管理
 - Ralis による web サービスの新規機能の設計、実装、テスト、レビュー
 - Flask や Django による API 開発全般
+- Elasticsearch を用いた検索システムの開発
 - 機械学習を組み込んだサービス設計、開発
 - ブロックチェーン技術を用いた開発
 - フロントエンド開発
@@ -132,6 +135,7 @@ Rails を使用した Web サービスの開発
 - DevOps の社内周知
 - BlockChain, Ethereum の理解及び Solidity, Web3.js による開発
 - React と Redux による開発
+- Redash の導入と運用
 
 #### 備考
 経営者としてはサーバーや人材リソースのコスト管理を、エンジニアとしてはチームとして開発効率を上げるための仕組み整備を意識した。
