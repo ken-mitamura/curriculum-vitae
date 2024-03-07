@@ -6,7 +6,7 @@
 | Facebook | [三田村健](https://www.facebook.com/ken.mitamura.4) |
 | Twitter | [@Ken_Mitamura](https://twitter.com/Ken_Mitamura) |
 | 性別 | 男 |
-| 年齢 | 28 歳 |
+| 年齢 | 29 歳 |
 | 学歴 | 東京大学工学部卒業 |
 | 在住地 | 東京都 |
 
@@ -20,7 +20,7 @@
 | 言語 | | レベル | 年数 | 備考 |
 | --- | --- | --- | --- | --- |
 | Ruby | | A | 6 | |
-| Python | | A | 5 | |
+| Python | | A | 6 | |
 | JavaScript | jQuery | B | | |
 | | CoffeeScript | B | |
 | | ECMAScript | B | |
@@ -65,7 +65,7 @@
 | GitLab | A | |
 | AWS | A | |
 | GCP | B | |
-| Azure | B | |
+| Azure | A | |
 | Docker | A | |
 | Terraform | A | |
 | Capistrano | A | |
