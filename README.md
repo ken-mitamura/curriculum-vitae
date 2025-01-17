@@ -18,19 +18,19 @@
 ## スキル
 
 ### 言語
-![My Skills](https://skillicons.dev/icons?i=py,ruby,js,ts,nodejs,html,css,sass,c,cpp,java,solidity,bash)
+![My Skills](https://skillicons.dev/icons?i=py,ruby,js,ts,nodejs,coffeescript,jquery,html,css,sass,c,cpp,java,solidity,bash)
 
-Python, Ruby, JavaScript (ECMAScript, JSX, CoffeeScript, jQuery), TypeScript, HTML, CSS(Sass), C, C++, Java, Delphi, Solidity, bash, zsh
+Python, Ruby, JavaScript (Node.js, ECMAScript, JSX, CoffeeScript, jQuery), TypeScript, HTML, CSS(Sass), C, C++, Java, Delphi, Solidity, bash, zsh
 
-### フレームワーク
-![My Skills](https://skillicons.dev/icons?i=django,flask,rails,react,nextjs,redux,opencv,pytorch)
+### フレームワーク・ライブラリ
+![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,rails,react,nextjs,redux,jest,opencv,pytorch)
 
-Django, Django REST framework, Flask, Ruby on Rails, React, Next.js, Redux, OpenCV, PyTorch
+Django, Django REST framework, Flask, FastAPI, Ruby on Rails, React, Next.js, Redux, Jest, OpenCV, PyTorch
 
 ### DB
 ![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,mongo,elasticsearch,dynamodb)
 
-MySQL, PostgreSQL, Redis, MongoDB, Elasticsearch, DynamoDB
+MySQL, PostgreSQL, Redis, MongoDB, Elasticsearch, OpenSearch, DynamoDB
 
 ### OS
 ![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu)
@@ -45,7 +45,7 @@ Amazon Web Service, Microsoft Azure, Google Cloud
 ### ツール
 ![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,terraform,nginx,vim,atom,vscode,jenkins,githubactions,bootstrap,figma,netlify,heroku,notion,postman,sentry)
 
-Git, GitHub, GitLab, Bitbucket, Docker, Terraform, Capistrano, Nginx, Vim, Atom, VSCode, Jenkins, GitHub Actions, CircleCI, Redash, Bootstrap, Figma, Netlify, Heroku, Notion, Postman, Sentry, Auth0, OpenFGA
+Git, GitHub, GitLab, Bitbucket, Docker, DockerHub, Terraform, AWS CDK, Capistrano, Nginx, Vim, Atom, VSCode, Jenkins, GitHub Actions, CircleCI, Redash, Bootstrap, Figma, Netlify, Heroku, Notion, Postman, Sentry, Auth0, OpenFGA
 
 ### 語学力
 | 言語 | |
