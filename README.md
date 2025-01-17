@@ -1,8 +1,8 @@
 # 職務経歴書
 ## 自己紹介
-サーバー・インフラメインのソフトウェアエンジニアです。
+サーバー・インフラがメインのソフトウェアエンジニアです。
 
-2017年に大学時代の友人とAIスタートアップ（[株式会社 ACES](http://acesinc.co.jp/)）を6人で創業し、現在も参画しています。
+2017 年に AI スタートアップ（[株式会社 ACES](http://acesinc.co.jp/)）を大学時代の友人たち 6 人と創業し、現在も参画しています。
 
 ## 基本情報
 
@@ -47,7 +47,6 @@ Amazon Web Service, Microsoft Azure, Google Cloud
 
 Git, GitHub, GitLab, Bitbucket, Docker, Terraform, Capistrano, Nginx, Vim, Atom, VSCode, Jenkins, GitHub Actions, CircleCI, Redash, Bootstrap, Figma, Netlify, Heroku, Notion, Postman, Sentry, Auth0, OpenFGA
 
-
 ### 語学力
 | 言語 | |
 | --- | --- |
@@ -61,15 +60,15 @@ Git, GitHub, GitLab, Bitbucket, Docker, Terraform, Capistrano, Nginx, Vim, Atom,
 | 応用情報技術者 | 2018 年 12 月 |
 | 情報処理安全確保支援士試験合格 | 2020 年 12 月 |
 
-### 強み
-- 経営者視点のサービス設計・開発・運用を行うことができる
+## 強み
+- 0→1、1→10フェーズの経験が多く、創業から一定規模の成長までの肌感がある
+- 経営者視点を持ちながらサービス設計・開発・運用を行うことができる
 - エンジニア組織のマネジメント・採用・評価の経験あり
-- プロダクトマネージャーとして要件定義等の経験あり
-- メイン分野はサーバーサイドだが、インフラやフロント領域の業務に関わった経験あり
-- Rails や Django などの Web フレームワークを利用した API 開発の経験が多い
+- toB SaaSのプロダクトマネージャーの経験あり
+- サーバー・インフラを中心としたWebサービス・API・モバイルアプリ開発の経験が多い
 - 小規模のスタートアップ環境の開発チームと、大規模な開発・運用チームの経験あり
 - 中学生の頃からプログラミングに触れており、当時は技術書通りにゲームを作成していた
-- C, C++, Java, Delphi なども書いたことがある
+- 高校1年生で IT パスポートの資格を取得
 
 ## 職務経歴
 ### 2017/5 - 現在 : [株式会社 ACES](http://acesinc.co.jp/)
@@ -81,7 +80,7 @@ Git, GitHub, GitLab, Bitbucket, Docker, Terraform, Capistrano, Nginx, Vim, Atom,
 
 サーバー業務ではプロダクト開発全般（要件定義・設計・実装・テスト）、 Rails を使用した Web サービスの開発、 Flask や Django を使用した API 開発、 Python コードの社内パッケージ化、プロダクトの API ドキュメント管理、ブロックチェーン技術の導入、 DevOps 分野としてコード規約やテストの導入、GitHub Actions や CodeBuild を利用した CI / CD の整備などを担当。
 
-その他に React を用いたフロント開発、toB SaaS のプロダクトマネージャーとして CS や開発要件定義、情報システム業務として PC のキッティング・社内セキュリティ整備や ISMS 導入などを実施。
+その他に開発における品質・セキュリティの責任者としてチームへの推進、 React を用いたフロント開発、toB SaaS のプロダクトマネージャーとしてユーザーストーリーの作成や CS 業務、情報システム業務として PC のキッティング・社内セキュリティ整備や ISMS 導入などを実施。
 
 #### 担当業務
 - 開発方針の意思決定
@@ -98,6 +97,7 @@ Git, GitHub, GitLab, Bitbucket, Docker, Terraform, Capistrano, Nginx, Vim, Atom,
 - Elasticsearch を用いた検索システムの開発
 - Auth0, OpenFGA を用いた全社認証認可基盤の構築
 - 機械学習を組み込んだサービス設計、開発
+- 開発における品質・セキュリティの責任者としてチームへの推進
 - ブロックチェーン技術を用いた開発
 - フロントエンド開発
 - toB SaaS のプロダクトマネージャー
@@ -109,6 +109,8 @@ Git, GitHub, GitLab, Bitbucket, Docker, Terraform, Capistrano, Nginx, Vim, Atom,
 - ドメイン駆動・SOLID原則・クリーンアーキテクチャ等に基づくソフトウェア設計
 - Docker による環境構築と運用技術
 - AWS, GCP, Azure の運用技術
+- AWS のマルチアカウント設計
+- AWS のコスト最適化（Savings Plans や Reserved Instance などの購入運用）
 - ECS, Fargate の運用
 - SageMaker の運用
 - Terraform によるインフラリソース管理
@@ -178,4 +180,4 @@ Git, GitHub, GitLab, Bitbucket, Docker, Terraform, Capistrano, Nginx, Vim, Atom,
 - Nginx の設定周りの知識
 
 #### 備考
-創業 2 年程のスタートアップでエンジニアチームは 4 名。
+当時創業 2 年程のスタートアップでエンジニアチームは 4 名。
