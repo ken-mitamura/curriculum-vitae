@@ -1,80 +1,36 @@
 # 職務経歴書
+## 自己紹介
+サーバー・インフラメインのソフトウェアエンジニアです。
+2017年に大学時代の友人とAIスタートアップ（株式会社ACES）を6人で創業し、現在も継続して参画しています。
+
 ## 基本情報
 
 | Name | 三田村 健 (Ken Mitamura) |
 | --- | --- |
 | Facebook | [三田村健](https://www.facebook.com/ken.mitamura.4) |
-| Twitter | [@Ken_Mitamura](https://twitter.com/Ken_Mitamura) |
+| X (Twitter) | [@Ken_Mitamura](https://twitter.com/Ken_Mitamura) |
 | 性別 | 男 |
-| 年齢 | 29 歳 |
+| 年齢 | 30 歳 |
 | 学歴 | 東京大学工学部卒業 |
 | 在住地 | 東京都 |
 
 ## スキル
-- S : コミッター・開発者レベル
-- A : 他者に教えることができる
-- B : 1 人で開発を進められる
-- C : 他者の協力を得ながら開発ができる
+[![My Skills](https://skillicons.dev/icons?i=py,ruby,js,ts,nodejs,html,css,sass,c,cpp,java,solidity,bash,django,flask,rails,react,nextjs,redux,opencv,pytorch,mysql,postgres,redis,mongo,elasticsearch,dynamodb,linux,ubuntu,git,github,gitlab,bitbucket,aws,gcp,azure,docker,terraform,nginx,vim,atom,vscode,jenkins,githubactions,bootstrap,figma,netlify,heroku,notion,postman,sentry)](https://skillicons.dev)
 
 ### 言語
-| 言語 | | レベル | 年数 | 備考 |
-| --- | --- | --- | --- | --- |
-| Ruby | | A | 6 | |
-| Python | | A | 6 | |
-| JavaScript | jQuery | B | | |
-| | CoffeeScript | B | |
-| | ECMAScript | B | |
-| | JSX | B | |
-| TypeScript | | B | |
-| HTML | | A | |
-| CSS | | A | |
-| Solidity | | B | |
-| bash | | B | |
+Python, Ruby, JavaScript (ECMAScript, JSX, CoffeeScript, jQuery), TypeScript, HTML, CSS(Sass), C, C++, Java, Delphi, Solidity, bash, zsh
 
 ### フレームワーク
-| FW | レベル | 備考 |
-| --- | --- | --- |
-| Ruby on Rails | A | |
-| Flask | A | |
-| Django | A | |
-| Django REST framework | A | |
-| React | B | |
-| Redux | B | |
+Django, Django REST framework, Flask, Ruby on Rails, React, Next.js, Redux, OpenCV, PyTorch
 
 ### DB
-| DB | レベル | 備考 |
-| --- | --- | --- |
-| MySQL | A | |
-| PostgreSQL | B | |
-| Redis | A | |
-| MongoDB | A | |
-| Elasticsearch | A | |
+MySQL, PostgreSQL, Redis, MongoDB, Elasticsearch, DynamoDB
 
 ### OS
-| OS | レベル | 備考 |
-| --- | --- | --- |
-| Ubuntu | A | |
-| CentOS | A | |
-| Amazon Linux | A |
+Ubuntu, CentOS, Amazon Linux
 
 ### ツール
-| ツール | レベル | 備考 |
-| --- | --- | --- |
-| Git | A | |
-| GitHub | A | |
-| GitLab | A | |
-| AWS | A | |
-| GCP | B | |
-| Azure | A | |
-| Docker | A | |
-| Terraform | A | |
-| Capistrano | A | |
-| Nginx | A | |
-| Vim | B | |
-| Jenkins | A | |
-| GitHub Actions | A |
-| CircleCI | B | |
-| Redash | A | |
+Git, GitHub, GitLab, Bitbucket, AWS, GCP, Azure, Docker, Terraform, Capistrano, Nginx, Vim, Atom, VSCode, Jenkins, GitHub Actions, CircleCI, Redash, Bootstrap, Figma, Netlify, Heroku, Notion, Postman, Sentry
 
 
 ### 語学力
@@ -90,9 +46,6 @@
 | 応用情報技術者 | 2018 年 12 月 |
 | 情報処理安全確保支援士試験合格 | 2020 年 12 月 |
 
-### プライベートの開発経験
-Rails を使用した Web サービスの開発
-
 ### 強み
 - 経営者視点のサービス設計・開発・運用を行うことができる
 - エンジニア組織のマネジメント・採用・評価の経験あり
@@ -105,15 +58,15 @@ Rails を使用した Web サービスの開発
 
 ## 職務経歴
 ### 2017/5 - 現在 : [株式会社 ACES](http://acesinc.co.jp/)
-共同創業者として参画し、執行役員を現任。経営者としてエンジニアリングに関わる業務、エンジニア組織のマネジメント・採用・評価、また開発外注業務の管理を行う。エンジニアとしてはインフラに関する全体的な環境構築・運用、サーバーサイドの要件定義・実装・運用、フロントエンドの実装を担当。更に情報システム業務やプロダクトマネージャー業務も実施。
+共同創業者として参画。会社の成長に伴い、ポジションを変更しながら経営者・マネジメント業務及びメンバーとしてのエンジニア業務を実施。
 
-マネジメント業務では、ソフトウェア開発・プロダクト開発の責任者として経営会議に参加し、開発方針の意思決定を行うほか、サーバー・インフラ・フロント・モバイルエンジニアの採用、エンジニアメンバーの評価及び 1on1 の実施、他部署や他職種とのコミュニケーションの統括を担当。
+マネジメント業務では、ソフトウェア開発・プロダクト開発の責任者として経営会議に参加し、開発方針の意思決定を行うほか、サーバー・インフラ・フロント・モバイルエンジニアの採用、エンジニアメンバーの評価及び 1on1 の実施、開発外注業務の管理、他部署や他職種とのコミュニケーションの統括を担当。
 
-インフラ業務では AWS, GCP, Azure の社内環境整備及びスタートアップ支援チームとの連絡、開発から運用まで Docker を使用できるような環境構築、 Terraform によるインフラリソースのコード管理、 MLOps 分野として機械学習の学習・推論のサーバー環境整備、機械学習をサービスに組み込む設計と実装などを担当。
+インフラ業務では全社の認証認可基盤の構築、 AWS, GCP, Azure の社内環境整備及びスタートアップ支援チームとの連絡、開発から運用まで Docker を使用できるような環境構築、 Terraform によるインフラリソースのコード管理、 MLOps 分野として機械学習の学習・推論のサーバー環境整備、機械学習をサービスに組み込む設計と実装などを担当。
 
-サーバー業務では Rails を使用した Web サービスの開発、 Flask や Django を使用した API 開発、 Python コードの社内パッケージ化、プロダクトの API ドキュメント管理、ブロックチェーン技術の導入、 DevOps 分野としてコード規約やテストの導入、GitHub Actions や CodeBuild を利用した CI / CD の整備などを担当。
+サーバー業務ではプロダクト開発全般（要件定義・設計・実装・テスト）、 Rails を使用した Web サービスの開発、 Flask や Django を使用した API 開発、 Python コードの社内パッケージ化、プロダクトの API ドキュメント管理、ブロックチェーン技術の導入、 DevOps 分野としてコード規約やテストの導入、GitHub Actions や CodeBuild を利用した CI / CD の整備などを担当。
 
-その他に React を用いたフロント開発、外部業者への開発の外注依頼・管理、toB SaaS のプロダクトマネージャーとして CS や開発要件定義、情報システム業務として PC のキッティング・社内セキュリティ整備や ISMS 導入などを実施。
+その他に React を用いたフロント開発、toB SaaS のプロダクトマネージャーとして CS や開発要件定義、情報システム業務として PC のキッティング・社内セキュリティ整備や ISMS 導入などを実施。
 
 #### 担当業務
 - 開発方針の意思決定
@@ -128,25 +81,30 @@ Rails を使用した Web サービスの開発
 - Ralis による web サービスの新規機能の設計、実装、テスト、レビュー
 - Flask や Django による API 開発全般
 - Elasticsearch を用いた検索システムの開発
+- Auth0, OpenFGA を用いた全社認証認可基盤の構築
 - 機械学習を組み込んだサービス設計、開発
 - ブロックチェーン技術を用いた開発
 - フロントエンド開発
 - toB SaaS のプロダクトマネージャー
-- 情シスとして ISMS 取得プロジェクトの実行
+- 情シスとして ISMS 取得・更新プロジェクトの実行
 
 #### 習得スキル
 - マネジメントスキル
+- エンジニアの採用・評価
+- ドメイン駆動・SOLID原則・クリーンアーキテクチャ等に基づくソフトウェア設計
 - Docker による環境構築と運用技術
-- AWS の運用技術
+- AWS, GCP, Azure の運用技術
 - ECS, Fargate の運用
 - SageMaker の運用
 - Terraform によるインフラリソース管理
 - Flask や Django を使用した API 開発
 - MLOps の知見
-- DevOps の社内周知
+- DevOps の知見
+- 認証認可の知見
 - BlockChain, Ethereum の理解及び Solidity, Web3.js による開発
 - React と Redux による開発
 - Redash の導入と運用
+- 情シス業務の内容と実務
 
 #### 備考
 経営者としてはソフトウェア開発に関わる経営戦略として特にサーバーや人材リソースのコスト管理を、エンジニアとしてはチームとして開発効率を上げるための仕組み整備を意識した。
@@ -194,8 +152,9 @@ Rails を使用した Web サービスの開発
 ### 2016/4 - 2016/10 : 株式会社ジラフ
 業務委託のインターンとして参画。Rails を使用した B to C の Web サービス ( 買取業者比較サイト ) の開発・保守を担当。
 
-#### 担当業務- 新規機能の設計、実装、テスト
-- バグ修正
+#### 担当業務
+- 新規機能の設計、実装、テスト
+- バグ修正
 
 #### 習得スキル
 - チームでの開発経験
@@ -203,5 +162,5 @@ Rails を使用した Web サービスの開発
 - Rspec でテストを書く習慣
 - Nginx の設定周りの知識
 
-#### 備考
+#### 備考
 創業 2 年程のスタートアップでエンジニアチームは 4 名。
