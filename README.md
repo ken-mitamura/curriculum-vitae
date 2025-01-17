@@ -15,22 +15,36 @@
 | 在住地 | 東京都 |
 
 ## スキル
-![My Skills](https://skillicons.dev/icons?i=py,ruby,js,ts,nodejs,html,css,sass,c,cpp,java,solidity,bash,django,flask,rails,react,nextjs,redux,opencv,pytorch,mysql,postgres,redis,mongo,elasticsearch,dynamodb,linux,ubuntu,git,github,gitlab,bitbucket,aws,gcp,azure,docker,terraform,nginx,vim,atom,vscode,jenkins,githubactions,bootstrap,figma,netlify,heroku,notion,postman,sentry)
 
 ### 言語
+![My Skills](https://skillicons.dev/icons?i=py,ruby,js,ts,nodejs,html,css,sass,c,cpp,java,solidity,bash)
+
 Python, Ruby, JavaScript (ECMAScript, JSX, CoffeeScript, jQuery), TypeScript, HTML, CSS(Sass), C, C++, Java, Delphi, Solidity, bash, zsh
 
 ### フレームワーク
+![My Skills](https://skillicons.dev/icons?i=django,flask,rails,react,nextjs,redux,opencv,pytorch)
+
 Django, Django REST framework, Flask, Ruby on Rails, React, Next.js, Redux, OpenCV, PyTorch
 
 ### DB
+![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,mongo,elasticsearch,dynamodb)
+
 MySQL, PostgreSQL, Redis, MongoDB, Elasticsearch, DynamoDB
 
 ### OS
-Ubuntu, CentOS, Amazon Linux
+![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu)
+
+macOS, Windows, Linux(Ubuntu, CentOS, Amazon Linux)
+
+### IaaS
+![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)
+
+Amazon Web Service, Microsoft Azure, Google Cloud
 
 ### ツール
-Git, GitHub, GitLab, Bitbucket, AWS, GCP, Azure, Docker, Terraform, Capistrano, Nginx, Vim, Atom, VSCode, Jenkins, GitHub Actions, CircleCI, Redash, Bootstrap, Figma, Netlify, Heroku, Notion, Postman, Sentry
+![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,terraform,nginx,vim,atom,vscode,jenkins,githubactions,bootstrap,figma,netlify,heroku,notion,postman,sentry)
+
+Git, GitHub, GitLab, Bitbucket, Docker, Terraform, Capistrano, Nginx, Vim, Atom, VSCode, Jenkins, GitHub Actions, CircleCI, Redash, Bootstrap, Figma, Netlify, Heroku, Notion, Postman, Sentry, Auth0, OpenFGA
 
 
 ### 語学力
