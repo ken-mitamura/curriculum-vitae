@@ -15,7 +15,7 @@
 | 在住地 | 東京都 |
 
 ## スキル
-[![My Skills](https://skillicons.dev/icons?i=py,ruby,js,ts,nodejs,html,css,sass,c,cpp,java,solidity,bash,django,flask,rails,react,nextjs,redux,opencv,pytorch,mysql,postgres,redis,mongo,elasticsearch,dynamodb,linux,ubuntu,git,github,gitlab,bitbucket,aws,gcp,azure,docker,terraform,nginx,vim,atom,vscode,jenkins,githubactions,bootstrap,figma,netlify,heroku,notion,postman,sentry)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=py,ruby,js,ts,nodejs,html,css,sass,c,cpp,java,solidity,bash,django,flask,rails,react,nextjs,redux,opencv,pytorch,mysql,postgres,redis,mongo,elasticsearch,dynamodb,linux,ubuntu,git,github,gitlab,bitbucket,aws,gcp,azure,docker,terraform,nginx,vim,atom,vscode,jenkins,githubactions,bootstrap,figma,netlify,heroku,notion,postman,sentry)
 
 ### 言語
 Python, Ruby, JavaScript (ECMAScript, JSX, CoffeeScript, jQuery), TypeScript, HTML, CSS(Sass), C, C++, Java, Delphi, Solidity, bash, zsh
