@@ -61,14 +61,14 @@ Git, GitHub, GitLab, Bitbucket, Docker, DockerHub, Terraform, AWS CDK, Capistran
 | 情報処理安全確保支援士試験合格 | 2020 年 12 月 |
 
 ## 強み
-- 0→1、1→10フェーズの経験が多く、創業から一定規模の成長までの肌感がある
+- 0 → 1 、1 → 10 フェーズの経験が多く、創業から一定規模の成長までの肌感がある
 - 経営者視点を持ちながらサービス設計・開発・運用を行うことができる
 - エンジニア組織のマネジメント・採用・評価の経験あり
-- toB SaaSのプロダクトマネージャーの経験あり
-- サーバー・インフラを中心としたWebサービス・API・モバイルアプリ開発の経験が多い
+- toB SaaS のプロダクトマネージャーの経験あり
+- サーバー・インフラを中心とした Web サービス・ API ・モバイルアプリ開発の経験が多い
 - 小規模のスタートアップ環境の開発チームと、大規模な開発・運用チームの経験あり
 - 中学生の頃からプログラミングに触れており、当時は技術書通りにゲームを作成していた
-- 高校1年生で IT パスポートの資格を取得
+- 高校 1 年生で IT パスポートの資格を取得
 
 ## 職務経歴
 ### 2017/5 - 現在 : [株式会社 ACES](http://acesinc.co.jp/)
@@ -92,7 +92,7 @@ Git, GitHub, GitLab, Bitbucket, Docker, DockerHub, Terraform, AWS CDK, Capistran
 - Docker を利用した開発、運用体制の整備
 - AWS 環境の構築、運用、コスト管理
 - GCP, Azure の管理
-- Ralis による web サービスの新規機能の設計、実装、テスト、レビュー
+- Ralis による Web サービスの新規機能の設計、実装、テスト、レビュー
 - Flask や Django による API 開発全般
 - Elasticsearch を用いた検索システムの開発
 - Auth0, OpenFGA を用いた全社認証認可基盤の構築
@@ -106,11 +106,11 @@ Git, GitHub, GitLab, Bitbucket, Docker, DockerHub, Terraform, AWS CDK, Capistran
 #### 習得スキル
 - マネジメントスキル
 - エンジニアの採用・評価
-- ドメイン駆動・SOLID原則・クリーンアーキテクチャ等に基づくソフトウェア設計
+- ドメイン駆動・ SOLID 原則・クリーンアーキテクチャ等に基づくソフトウェア設計
 - Docker による環境構築と運用技術
 - AWS, GCP, Azure の運用技術
 - AWS のマルチアカウント設計
-- AWS のコスト最適化（Savings Plans や Reserved Instance などの購入運用）
+- AWS のコスト最適化（ Savings Plans や Reserved Instance などの購入運用 ）
 - ECS, Fargate の運用
 - SageMaker の運用
 - Terraform によるインフラリソース管理
